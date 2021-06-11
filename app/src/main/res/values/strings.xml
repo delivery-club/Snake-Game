@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Snake Game</string>
+
+    <string name="record_text">RECORD: %d</string>
+    <string name="current_result_text">SCORE: %d</string>
+    <string name="tutorial_description">Press in the right direction to control the snake</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_inverted">#1D2023</color>
+    <color name="text_positive">#0EC645</color>
+    <color name="background_overlay">#661D2023</color>
+    <color name="text_inverted">#FFFFFF</color>
+    <color name="grey_400">#919399</color>
+    <color name="green_dc">#0EC645</color>
+    <color name="grey_0">#ffffff</color>
+    <color name="text_head_line">#09090A</color>
+</resources>
