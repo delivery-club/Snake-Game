@@ -1,3 +1,3 @@
 Snake-Game
 
-[![Snake-Game](snake_video.gif)]
+![Snake-Game](snake_video.gif)
